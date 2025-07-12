@@ -5,7 +5,7 @@
 # ReWear-Revolution
 <h1>ReWear – Community Clothing Exchange</h1>
 
-ReWear is a smart, community-driven web platform built to **transform how we think about fashion and sustainability**. Rather than letting unused clothes gather dust or head to landfills, ReWear lets users list items they no longer need, swap them with others, or redeem them using a unique **points-based reward system**.
+ReWear is a smart, community-driven web platform built to **transform the way we think about fashion and sustainability hand in hand**. Rather than letting unused clothes gather dust or head to landfills, ReWear lets users list items they no longer need, swap them with others, or redeem them using a unique **points-based reward system**.
 **ReWear** is a platform that enables users to exchange clothing through direct swaps or a point-based redemption system. The goal is to **promote sustainable fashion** and **reduce textile waste** by encouraging users to reuse wearable garments instead of discarding them
 Every successful exchange earns users points — which they can then **redeem for other items**. It’s a digital, circular fashion ecosystem aimed at minimizing waste and maximizing value.
 
