@@ -58,6 +58,12 @@ Every successful exchange earns users points — which they can then **redeem fo
 - **Authentication:** Custom auth 
 
 ---
+## 📸 Snapshots
+
+### 🧾 User Dashboard
+
+![Landing Page]()
+
 
 
 
