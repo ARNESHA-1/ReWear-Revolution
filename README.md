@@ -60,9 +60,18 @@ Every successful exchange earns users points — which they can then **redeem fo
 ---
 ## 📸 Snapshots
 
-### 🧾 User Dashboard
+### 🚀Landing Page
 
 ![Landing Page](https://github.com/ARNESHA-1/ReWear-Revolution/blob/e758bf05b56a58dc721c7849985a5e85f11b6ce9/landing.png)
+### 🏠Home Page
+![Home Page](https://github.com/ARNESHA-1/ReWear-Revolution/blob/b5f1e146f3fb2463716c6b10b2bf6dcefed497e4/home.jpeg
+)
+### 👤User Profile
+![User Profile](https://github.com/ARNESHA-1/ReWear-Revolution/blob/b5f1e146f3fb2463716c6b10b2bf6dcefed497e4/userprofile.png)
+### 🛠️Admin Page
+![Admin view](https://github.com/ARNESHA-1/ReWear-Revolution/blob/b5f1e146f3fb2463716c6b10b2bf6dcefed497e4/admin.jpeg)
+### 🧾Item Listing
+![Listing Items](https://github.com/ARNESHA-1/ReWear-Revolution/blob/b5f1e146f3fb2463716c6b10b2bf6dcefed497e4/listing_item.jpeg)
 
 
 
