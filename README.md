@@ -62,7 +62,7 @@ Every successful exchange earns users points — which they can then **redeem fo
 
 ### 🧾 User Dashboard
 
-![Landing Page]()
+![Landing Page](https://github.com/ARNESHA-1/ReWear-Revolution/blob/e758bf05b56a58dc721c7849985a5e85f11b6ce9/landing.png)
 
 
 
