@@ -2,6 +2,9 @@
 (i) Arnesha Shailesh - ashailesh3009@gmail.com <br>
 (ii) Jay krishna Kumar - jayk.dd22.cs@nitp.ac.in <br>
 
+** VIDEO LINK <br>
+https://youtube.com/shorts/YsYlKE1i3sA?si=28GkrtsARQMxpJ7V
+
 # ReWear-Revolution
 <h1>ReWear – Community Clothing Exchange</h1>
 
